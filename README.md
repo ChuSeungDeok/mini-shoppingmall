@@ -1,5 +1,5 @@
 ## mini-shoppingmall
-## 페이지 : https://github.com/ChuSeungDeok/mini-shoppingmall/new/main?readme=1
+## 페이지 : https://chuseungdeok.github.io/mini-shoppingmall/
 
 옷 타입, 옷 컬러 fliter
 
